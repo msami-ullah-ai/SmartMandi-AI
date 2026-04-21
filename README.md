@@ -4,6 +4,9 @@ An AI-powered crop price prediction and smart market comparison platform for Pak
 
 ---
 
+<img width="1887" height="770" alt="image" src="https://github.com/user-attachments/assets/d96f61fd-edf1-42e5-b363-27199fd8c152" />
+
+
 ## 📌 Overview
 
 SmartMandi-AI is a Machine Learning based decision-support system designed to help farmers, traders, and agricultural stakeholders make smarter selling decisions.
@@ -36,6 +39,10 @@ SmartMandi-AI solves this using predictive analytics and AI.
 ✅ AI-Based Decision Support Dashboard
 
 ---
+
+<img width="1423" height="586" alt="image" src="https://github.com/user-attachments/assets/b5e8d069-e112-4be9-94cf-d6007bdeeee6" />
+
+
 
 ## 🌾 Supported Crops
 
